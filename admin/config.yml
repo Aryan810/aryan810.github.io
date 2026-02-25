@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: Aryan810/aryang1018.github.io # Your exact GitHub repository
+  branch: main # Change to 'master' if your default branch is named master
+  base_url: https://decap-cms-oauth.netlify.app # Handles the secure GitHub login handshake
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Matches Jekyll's strict naming rule
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
