@@ -1,10 +1,8 @@
 backend:
-  name: github
-  repo: Aryan810/aryang1018.github.io # Your exact GitHub repository
-  branch: main # Change to 'master' if your default branch is named master
-  base_url: https://decap-cms-oauth.netlify.app # Handles the secure GitHub login handshake
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
 
-media_folder: "assets/images"
+media_folder: "images/uploads"
 public_folder: "/assets/images"
 
 collections:
