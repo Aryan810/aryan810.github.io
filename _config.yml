@@ -62,6 +62,7 @@ author:
   links:
     - label: "Guwahati, India"
       icon: "fa-solid fa-location-dot"
+      url: "/#"
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/aryan-gupta-iitg/"
