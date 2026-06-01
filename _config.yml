@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Computer Science Undergraduate at IIT Guwahati.
 # twitter_username: username
 github_username: aryan810
-minimal_mistakes_skin: default
+minimal_mistakes_skin: professional
 search: true
 
 # Build settings
@@ -103,12 +103,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: false
       read_time: true
-      comments: true
-      share: true
+      comments: # true
       related: true
+      sidebar:
+        nav: false
   # _pages
   - scope:
       path: "_pages"
