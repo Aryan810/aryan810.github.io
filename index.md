@@ -3,20 +3,18 @@ layout: home
 author_profile: true
 ---
 
-Hi! I'm **Aryan Gupta**, a Computer Science undergraduate at the **Indian Institute of Technology Guwahati** (B.Tech CSE, 2024 – 2028). I enjoy working at the intersection of algorithmic problem solving and practical software engineering. I'm currently an **Explore Software Engineer Intern at Microsoft**, Bengaluru, working with the Microsoft Teams Admin team on improving Copilot performance and reliability through automation. Feel free to reach out through any of the emails or links on the sidebar.
+Hi! I'm **Aryan Gupta**, a Computer Science undergraduate at the **Indian Institute of Technology Guwahati**. I'm interested in algorithmic problem solving, low-level systems programming and quantitative thinking. I'm currently an **Explore SWE Intern at Microsoft**, Bengaluru. Feel free to reach out through the links on the sidebar.
 
 ## Technical Interests
 
-- **Competitive Programming :** Coming up with efficient algorithms and clean implementations is what I enjoy most about programming. I currently hold a rating of **Expert (1745)** on [Codeforces](https://codeforces.com/profile/aryan_gupta_iitg) and **4★ (1936)** on CodeChef, and regularly participate in contests both individually and as part of teams from IIT Guwahati.
+- **Competitive Programming :** I enjoy designing efficient algorithms and writing clean, careful implementations under contest constraints. I scored an **AS grade in *Design and Analysis of Algorithms*** at IIT Guwahati.
 
-- **Software Engineering :** I like building reliable systems and writing automation that makes development workflows smoother. My internship at Microsoft has given me hands-on experience with large-scale codebases, code reviews, and engineering practices around testing and reliability.
+- **Low-Level Programming :** I like working close to the machine — C and C++, memory layout, performance, and understanding how things actually run.
 
-- **Web Development :** I work on full-stack web projects and enjoy picking up new frameworks as the project demands. I'm comfortable shipping end-to-end features, from API design to UI polish.
+- **Multithreading & Concurrency :** Concurrent data structures, lock-free programming and reasoning about memory models are areas I love digging into.
 
-## Community & Leadership
-
-I'm an active member of the **Coding Club at IIT Guwahati**, currently a **Core Team Member of the Competitive Programming Module**. Over the past year I've also served as **Coordinator** (Jun 2025 – Feb 2026) and **Senior Coordinator** (Jan 2026 – Jun 2026) of the same module — helping organise contests, mentor juniors, and curate learning material for the campus CP community.
+- **Quantitative & Probability :** Probability, combinatorics and quant-style problems are some of the most fun puzzles I keep coming back to.
 
 ## Non-Technical Interests
 
-Outside of code, I enjoy following sports, reading, and unwinding with music. I'm always happy to chat about software, systems, or interesting side projects — drop me a line at any of the addresses on the sidebar.
+Outside of code, I enjoy sports like **swimming**, **running** and **table tennis**, and I love **trekking**, **adventure activities** with friends and **exploring new places**. I also have a personal interest in **aviation** and a long-term goal of learning to fly **ultralight aircraft** and **hang gliding**. Always happy to chat about software, systems, or interesting side projects.
