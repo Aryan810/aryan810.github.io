@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm Aryan Gupta, a student pursuing B-Tech in Computer Science and Engineering at the Indian Institute of Technology Guwahati.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am currently working as a Software Engineering Explore Intern at Microsoft in Bengaluru, where I am contributing to the Teams Admin group.
+
+My technical interests include software development, competitive programming, and web development. I also enjoy exploring topics like concurrency, low-latency systems, and computer architecture. I am passionate about building reliable software and continuously learning new technologies.
+
+Outside of academics and programming, I stay active through sports like athletics, swimming, and badminton. I also have a personal interest in aviation and a long-term goal of learning to fly ultralight aircraft and hang gliding.
