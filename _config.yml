@@ -103,13 +103,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
       read_time: true
-      comments: # true
+      comments: true
+      share: true
       related: true
-      sidebar:
-        nav: false
   # _pages
   - scope:
       path: "_pages"
