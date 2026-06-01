@@ -7,16 +7,16 @@
    ========================================================================== */
 
 /* Colors */
-$background-color:       #fafaf7 !default;  // warm off-white page background
-$text-color:             #1f2933 !default;  // deep slate body text
-$muted-text-color:       #52606d !default;  // secondary / meta text
-$primary-color:          #1f3a5f !default;  // deep navy accent
-$border-color:           #e4e7eb !default;  // subtle dividers
+$background-color:       #fafaf7 !default;
+$text-color:             #1f2933 !default;
+$muted-text-color:       #52606d !default;
+$primary-color:          #1f3a5f !default;
+$border-color:           #e4e7eb !default;
 $code-background-color:  #f1f3f5 !default;
 $code-background-color-dark: #e4e7eb !default;
 $form-background-color:  #ffffff !default;
-$footer-background-color:#1f2933 !default;  // dark slate footer
-$link-color:             #1f3a5f !default;  // navy links
+$footer-background-color:#1f2933 !default;
+$link-color:             #1f3a5f !default;
 $link-color-hover:       mix(#000, $link-color, 25%) !default;
 $link-color-visited:     mix(#000, $link-color, 15%) !default;
 $masthead-link-color:    $text-color !default;
